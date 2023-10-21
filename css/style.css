@@ -196,7 +196,7 @@ input:checked + .slider:before {
 #copyright{
 	position: absolute;
 	left:50px;
-	top: 580px;
+	top: 570px;
 	font-size:12px
 }
 
